@@ -1,0 +1,17 @@
+
+img {
+    max-width: 60%;
+    max-width: auto;
+    border: none !important;
+    margin-top: 0px !important;
+}
+
+.tallimage {
+    max-width: 20%;
+    max-width: auto;
+    border: none !important;
+}
+
+.reveal .slides section .bodytext{
+    font-size: 10px;
+}
