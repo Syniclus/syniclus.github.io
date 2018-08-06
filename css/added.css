@@ -1,17 +1,17 @@
 
 img {
-    width: 70%;
+    width: 100%;
     max-width: auto;
     border: none !important;
     margin-top: 0px !important;
     transition:transform 0.25s ease;
 }
 
-img:hover {
-    -webkit-transform:scale(1.5); /* or some other value */
+/* img:hover {
+    -webkit-transform:scale(1.5);
     transform:scale(1.5);
     margin: auto;
-  }
+  } */
 
 .tallimage {
     max-width: 20%;
