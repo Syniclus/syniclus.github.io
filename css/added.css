@@ -4,7 +4,6 @@ img {
     max-width: auto;
     border: none !important;
     margin-top: 0px !important;
-    transition:transform 0.25s ease;
 }
 
 /* img:hover {
@@ -21,4 +20,11 @@ img {
 
 .reveal .slides section .bodytext{
     font-size: 10px;
+}
+
+.specialimage {
+    width: 75%;
+    max-width: auto;
+    border: none !important;
+    margin-top: 0px !important;
 }
