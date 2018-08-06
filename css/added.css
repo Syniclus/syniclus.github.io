@@ -1,7 +1,6 @@
 
 img {
     width: 100%;
-    max-width: auto;
     border: none !important;
     margin-top: 0px !important;
 }
@@ -14,7 +13,6 @@ img {
 
 .tallimage {
     width: 65%;
-    max-width: auto;
     border: none !important;
 }
 
@@ -24,7 +22,6 @@ img {
 
 .specialimage {
     width: 75%;
-    max-width: auto;
     border: none !important;
     margin-top: 0px !important;
 }
