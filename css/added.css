@@ -14,7 +14,7 @@ img {
   } */
 
 .tallimage {
-    max-width: 20%;
+    width: 49%;
     max-width: auto;
     border: none !important;
 }
